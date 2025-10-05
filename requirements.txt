@@ -7,6 +7,10 @@ numpy==2.2.6
 pandas==2.3.3
 streamlit==1.50.0
 <<<<<<< HEAD
+<<<<<<< HEAD
 plotly-express==0.4.1
 =======
 >>>>>>> 806aa80a9ff5fd530a551bc9c7325eb91484982a
+=======
+plotly-express==0.4.1
+>>>>>>> 69a35c1b4affb46bec9420930d3d28c0175a0b22
